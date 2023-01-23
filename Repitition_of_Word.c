@@ -17,7 +17,7 @@ int repitition(char arr[]) // It is the function which is called.
             count++;
         }
     }
-    printf("The character %c is repeated %d times", ch, count);
+    printf("The character %c is repeated %d times", ch, count);//It will prints the output.
 }
 
 int main() // It is calling function.
